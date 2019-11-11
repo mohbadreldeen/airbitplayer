@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <AirbitPlayer audio="/assets/audio/1546533585-28227-thoughts-of-you-drake-type-beat-by-sikwitit-beat.mp3" />
+    <AirbitPlayer audio="../assets/audio/1546533585-28227-thoughts-of-you-drake-type-beat-by-sikwitit-beat.mp3" />
   </div>
 </template>
 
